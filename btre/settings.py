@@ -26,7 +26,7 @@ SECRET_KEY = 'wjy999xwujcqbht+6lj49w#+op#0e_ts4_+t@$)yifkbk@bz!#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lovely-north-cascades-60318.herokuapp.com']
 
 
 # Application definition
